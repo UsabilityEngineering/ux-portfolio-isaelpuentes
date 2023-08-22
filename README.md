@@ -1,6 +1,6 @@
 # Isa's UX Portfolio
 
-About me...
+Hi! My name is Isael Melchor Puentes. I am a computer science major. 
 
 ## UX Team Project
 
