@@ -1,1 +1,1 @@
-j01 First Journal Deadline
+j01 First Journal
