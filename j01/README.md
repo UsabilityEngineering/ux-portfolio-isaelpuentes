@@ -2,7 +2,7 @@
 
 Isael Melchor-Puentes, Friday October 13
 
-![/Users/isaelpuentes/Downloads/CoD.jpeg](CoD.jpeg)
+![CoD](https://github.com/UsabilityEngineering/ux-portfolio-isaelpuentes/assets/98490391/f3df7bf6-2503-4c5a-8233-fd3e58fec687)
 
 I'm an avid gamer, and one of my go-to games is Call of Duty Mobile. I've spent countless hours immersed in its fast-paced action and intense battles. However, one of the issues I have with the game is the game's user interface, and it's affect on my overall satisfaction.
 
