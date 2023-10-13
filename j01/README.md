@@ -10,6 +10,8 @@ In terms of usability, I would like to highlight the concept of "satisfying." A 
 
 When I launch Call of Duty Mobile, my main interaction occurs within the various screens where I join matches, customize loadouts, and navigate game modes. Unfortunately, the user interface is far from satisfying. The screens are often filled with an overwhelming amount of information. There's so much happening on the screen that it's hard to focus on the most important elements, such as the game mode or my loadout. From the home screen alone, there’s information that could be filtered out better instead of everything being on said home screen. 
 
+https://github.com/UsabilityEngineering/ux-portfolio-isaelpuentes/assets/98490391/c38c56d5-e89f-4ef2-b1e5-b34a469a67ef
+
 For example, the main lobby screen is a cluttered mess of promotions, event banners, and social features. While these elements are designed to engage players and offer various activities, they can make it challenging to quickly access the core gameplay features even though they are all on the right side of the screen. The clutter not only affects satisfaction but also efficiency as I spend more time searching for what I need.
 
 Another area where the lack of satisfying design is apparent is in the in-game HUD (Heads-Up Display). During a match, the screen is filled with a plethora of information, including my health, ammo count, mini-map, and notifications. While these elements are essential for gameplay, their placement and presentation often feel overwhelming, detracting from the immersive experience. Which can be modified in size, placement, and the ability to completely remove said piece in general. However, it is still a process to find the correct setting to remove or edit the HUD. 
