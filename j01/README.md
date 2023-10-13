@@ -2,7 +2,7 @@
 
 Isael Melchor-Puentes, Friday October 13 
 
-![Downloads/Screenshot 2023-10-12 at 9.25.21 AM.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1d680c3-03c8-4f20-ac34-63fdfb4b3316/3dd253d9-38d7-45ef-aae5-b365ba82ef9d/Screenshot_2023-10-12_at_9.25.21_AM.jpeg)
+![/Users/isaelpuentes/Downloads/Screenshot 2023-10-12 at 9.25.21 AM.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1d680c3-03c8-4f20-ac34-63fdfb4b3316/3dd253d9-38d7-45ef-aae5-b365ba82ef9d/Screenshot_2023-10-12_at_9.25.21_AM.jpeg)
 
 I'm an avid gamer, and one of my go-to games is Call of Duty Mobile. I've spent countless hours immersed in its fast-paced action and intense battles. However, one of the issues I have with the game is the game's user interface, and it's affect on my overall satisfaction.
 
