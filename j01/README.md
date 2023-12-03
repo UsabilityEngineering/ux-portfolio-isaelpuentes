@@ -15,7 +15,7 @@ https://github.com/UsabilityEngineering/ux-portfolio-isaelpuentes/assets/9849039
 In the attached UX video (UX_video.MOV), the cluttered main lobby screen is evident, featuring promotions, event banners, and social features. While designed to engage players, these elements hinder quick access to core gameplay features, affecting both satisfaction and efficiency. A strategic redesign is needed to enhance the visual appeal and streamline the user journey. Having the main game modes in the lobby and having all the sales and banners of such in the item shop store. 
 
 ![IMG_A1B654C990FE-1](https://github.com/UsabilityEngineering/ux-portfolio-isaelpuentes/assets/98490391/8781de0b-4018-4a0f-a6e6-37338f8b2a19)
-Even with the store we have 9 tabs not including the seperate parts in the featured tab. Instead of having a seperate tab for credit shop and COD points we can have a button next to the amount we have and purchase them that way. 
+Even in the store we have 9 tabs not including the seperate parts in the featured tab. Instead of having a seperate tab for credit shop and COD points we can have a button next to the amount we have and purchase them that way. 
 
 A similar challenge is observed in the in-game Heads-Up Display (HUD), which displays vital information like health, ammo count, mini-map, and notifications. While essential, their current placement and presentation overwhelm the player, disrupting the immersive experience. Options to customize HUD elements, including size, placement, and removal, could significantly improve user satisfaction. However, finding and implementing these settings should be made more intuitive.
 
